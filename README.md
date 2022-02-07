@@ -1,8 +1,8 @@
-👋 Hi, I’m @marton-eifert
+👋 Hi, I'm @marton-eifert
 
-👀 I’m interested in machine learning, natural language processing, building tools for the financial industry
+👀 I'm interested in machine learning, natural language processing, building tools for the financial industry
 
-🌱 I’m currently learning cloud computing basics, building web services / APIs, deploying products with Docker.
+🌱 I'm currently learning: Find more details on [LearningPath.md](LearningPath.md).
 <!--- 💞️ I’m looking to collaborate on ... --->
 📫 How to reach me: Write me a message via GitHub.
 

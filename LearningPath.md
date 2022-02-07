@@ -29,8 +29,8 @@ Since 2022, I have been working for [Metafinanz Informationssysteme GmbH](https:
 - Setting up my first [github repository](https://github.com/marton-eifert/marton-eifert)
 
 ## Extending my R knowledge
-- Building a simple crawler with _rvest_
-- Object-oriented programming with _R6_
+- Building a simple crawler with [rvest](https://rvest.tidyverse.org/)
+- Object-oriented programming with [R6](https://adv-r.hadley.nz/r6.html)
 - Interfaces for Office files
   - [officeR](https://cran.r-project.org/web/packages/officer/index.html) package to merge docx files
   - Packages for pulling Sharepoint lists: [Microsoft365R](https://mran.microsoft.com/web/packages/Microsoft365R/index.html), [LukasK13/sharepointr](https://github.com/LukasK13/sharepointr), [esbeneickhardt/sharepointr](https://github.com/esbeneickhardt/sharepointr)

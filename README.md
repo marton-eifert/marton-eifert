@@ -4,7 +4,7 @@
 
 <!---
 🌱 I'm currently learning: Find more details on [LearningPath.md](LearningPath.md).
-💞️ I’m looking to collaborate on ... --->
+💞️ I’m looking to collaborate on ...
 📫 How to reach me: Write me a message via GitHub.
 
 marton-eifert/marton-eifert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

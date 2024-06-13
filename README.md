@@ -1,12 +1,9 @@
-👋 Hi, I'm @marton-eifert
+👋 Hi, I'm Márton
 
-👀 I'm interested in machine learning, natural language processing, building tools for the financial industry
+🤖 I'm interested in #generative_AI, #machine_learning, #deep_learning, #natural_language_processing, and building smart automation solutions particularly for the financial industry.
 
-<!---
-🌱 I'm currently learning: Find more details on [LearningPath.md](LearningPath.md).
-💞️ I’m looking to collaborate on ...
-📫 How to reach me: Write me a message via GitHub.
+👀 Check out my repositories here.
 
-marton-eifert/marton-eifert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 Don't forget to visit my LinkedIn profile to find out more about me and contact me: https://www.linkedin.com/in/martoneifert/
+
+Happy to connect!
